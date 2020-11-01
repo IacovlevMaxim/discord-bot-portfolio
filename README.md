@@ -33,14 +33,19 @@ There you can also see bots' info messages, see FAQ and ask any questions!*
 * Server: [Team Verge](https://discord.gg/QZPW4zG)
 * Functionality:
     * Automatically edit team roster message depending on members' roles
-### 4. Influx Bot (Work in Progress)
+### 4. Sythe Recruiter
+* Bot's owner: neeqo#6541
+* Server: [Team Sythe](https://discord.gg/Vsm6rFW)
+* Functionality:
+    * Connect Google Forms team applications with Discord and send them in a organized embed.
+### 5. Influx Bot (Work in Progress)
 * Bot's owner: Welks#2401
 * Server: [Team Influx](https://discord.gg/6YAqth3)
 * Functionality:
     * Moderation tool that can ban links for a certain amount of time. This can be used when a few users avoid channel cooldown by sending same link from multiple accounts.
     * Connect Google Forms team applications with Discord and send them in a organized embed.
     * Automatically edit team roster message depending on members' roles
-### 5. Vision Bot (Work in Progress)
+### 6. Vision Bot (Work in Progress)
 * Bot's owner: Oasis#1779
 * Server: [Team Vision](https://discord.gg/5SWWCBu)
 * Functionality:
