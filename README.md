@@ -16,6 +16,7 @@ If you are uncertain what areas can bot optimize, I can help you pick right func
 When you decide on desired bot's functionality, I will start working on the bot. I will estimate ETA depending on the amount of work I need to do.
 
 ## Common concerns
+*Note: for more FAQ, for customers' reviews and more join my [portfolio discord server](https://discord.gg/dXES6RYtAq)*.
 
 ### I can get scammed
 It's hard for one person to prove they are not a scammer. I mentioned bots' owners and their discord server so you can contact them and ask them about my service, while seeing a working bot in action. If you ask them about bot price, I and every bot owner have an agreement that we don't disclose information like bot's token, bot's price of link to bot's files, so unfortunately you will not get a response. Also keep in mind that each bot's functionality is somewhat different so price may vary.
