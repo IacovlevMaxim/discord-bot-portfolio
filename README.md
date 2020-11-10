@@ -71,7 +71,7 @@ There you can also see bots' info messages, see FAQ and ask any questions!*
 * Functionality:
     * Connect Google Forms team applications with Discord and send them in a organized embed.
 
-### 5. Influx Bot (Work in Progress)
+### 5. Influx Bot
 * Bot's owner: Welks#2401
 * Server: [Team Influx](https://discord.gg/6YAqth3)
 * Functionality:
