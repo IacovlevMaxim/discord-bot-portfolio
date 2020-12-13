@@ -78,8 +78,30 @@ There you can also see bots' info messages, see FAQ and ask any questions!*
     * Moderation tool that can ban links for a certain amount of time. This can be used when a few users avoid channel cooldown by sending same link from multiple accounts.
     * Connect Google Forms team applications with Discord and send them in a organized embed.
     * Automatically edit team roster message depending on members' roles
+    
+### 6. Berg BOT
+* Bot's owner: pahsi#0001
+* Server: [Esport BERG](https://discord.gg/Dp7htkJ)
+* Functionality:
+    * Team's to-do list. When due date and time of task comes, bot notifies task owner that it should be completed soon
+    * Reporting events like game score of Esport BERG with another team, stream announcements
+    * Basic moderation like censorship and temporary muting
+    
+### 7. BZ Bot (WIP)
+* Bot's owner: Josh.#6744
+* Server: [Below Zero](https://discord.gg/7vZqZNbRNz)
+* Functionality: 
+   * Server stats (current member count, current bot count)
+   * Giveaways through a message (enter through reacting)
+   * Self assignable roles (equip through reacting to a message)
+   * Welcome image message 
+   * Social media posts (Twitter, Instagram, Twitch)
+   * Stream announcements
+   * Specific moderation (Temporary bans, temporary mutes, warnings)
+   * Announcements (Send messages through the bot)
+   * ModMail system
 
-### 6. Vision Bot (Work in Progress)
+### x. Vision Bot (cancelled project)
 * Bot's owner: Oasis#1779
 * Server: [Team Vision](https://discord.gg/5SWWCBu)
 * Functionality:
