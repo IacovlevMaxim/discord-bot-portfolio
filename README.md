@@ -87,8 +87,9 @@ There you can also see bots' info messages, see FAQ and ask any questions!*
     * Reporting events like game score of Esport BERG with another team, stream announcements
     * Basic moderation like censorship and temporary muting
     
-### 7. BZ Bot (WIP)
-* Bot's owner: Josh.#6744
+### 7. BZ Bot
+* Bot's owners: Josh.#6744 and Gunnar
+#0113
 * Server: [Below Zero](https://discord.gg/7vZqZNbRNz)
 * Functionality: 
    * Server stats (current member count, current bot count)
