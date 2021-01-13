@@ -59,9 +59,9 @@ There you can also see bots' info messages, see FAQ and ask any questions!*
     * Protect server from scam bots
 * _Note: this bot is no longer in use_
 
-### 3. Verge Bot
-* Bot's owner: Xereosi#3151
-* Server: [Team Verge](https://discord.gg/QZPW4zG)
+### 3. Volux Bot
+* Bot's owner: Xereosi#3151 (since Verge merged with Hydro: drAK0#8631)
+* Server: [Team Volux](https://discord.gg/QZPW4zG)
 * Functionality:
     * Automatically edit team roster message depending on members' roles
     
@@ -78,6 +78,7 @@ There you can also see bots' info messages, see FAQ and ask any questions!*
     * Moderation tool that can ban links for a certain amount of time. This can be used when a few users avoid channel cooldown by sending same link from multiple accounts.
     * Connect Google Forms team applications with Discord and send them in a organized embed.
     * Automatically edit team roster message depending on members' roles
+* *Note: Team Influx is currently disbanded and this bot is no longer necessary*
     
 ### 6. Berg BOT
 * Bot's owner: pahsi#0001
@@ -88,8 +89,7 @@ There you can also see bots' info messages, see FAQ and ask any questions!*
     * Basic moderation like censorship and temporary muting
     
 ### 7. BZ Bot
-* Bot's owners: Josh.#6744 and Gunnar
-#0113
+* Bot's owners: Josh.#6744 and Gunnar#0113
 * Server: [Below Zero](https://discord.gg/7vZqZNbRNz)
 * Functionality: 
    * Server stats (current member count, current bot count)
