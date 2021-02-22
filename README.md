@@ -102,6 +102,14 @@ There you can also see bots' info messages, see FAQ and ask any questions!*
    * Announcements (Send messages through the bot)
    * ModMail system
 
+### 8. Zeus Bot
+* Bot's owner: A R E Z#9064
+* Server: (Custom-Strike)[https://discord.gg/6AbkcN8], (Arez Kingdom)[https://discord.gg/ywbNFy8]
+* Functionality:
+   * Syncronize roles across whole Custom-Strike server network (role properties and members with these roles)
+   * Stores users roles in a database
+   * Have a role hierarchy. Using specified commands, without directly interanting with Discord's role management, assign roles that are only available to assing for your role permission level
+
 ### x. Vision Bot (cancelled project)
 * Bot's owner: Oasis#1779
 * Server: [Team Vision](https://discord.gg/5SWWCBu)
