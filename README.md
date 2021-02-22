@@ -110,6 +110,13 @@ There you can also see bots' info messages, see FAQ and ask any questions!*
    * Stores users roles in a database
    * Have a role hierarchy. Using specified commands, without directly interanting with Discord's role management, assign roles that are only available to assing for your role permission level
 
+### 9. PromoBot
+* Bot's owner: Stew#1902 (me)
+* Servers: a lot of servers!
+* Functionality:
+   * Promote your server using information you give in setup command
+   * Grows your server for free! :)
+
 ### x. Vision Bot (cancelled project)
 * Bot's owner: Oasis#1779
 * Server: [Team Vision](https://discord.gg/5SWWCBu)
